@@ -1,7 +1,6 @@
 Use cmake 2.6 to create the Makefiles for this.
 
-Requires libcurl 7.19.4 for file:// URL support.
+Requires libcurl 7.19.4.
 
-test.c contains an example that is designed for a simple test.zip containing
-only a text.txt.
+test.c contains an example for listing stuff out of an ipsw from Apple.
 
